@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    accent-color: #0078D7; /* Cambia el color del radio */
+    margin-right: 8px;
+}
